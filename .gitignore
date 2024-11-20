@@ -2,3 +2,8 @@
 .venv/Lib
 .venv
 .idea
+misc.xml
+modules.xml
+vcs.xml
+workspace.xml
+
