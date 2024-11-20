@@ -16,3 +16,8 @@ with col2:
     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in Python. Feel free to contact me.
+"""
+st.write(content2)
